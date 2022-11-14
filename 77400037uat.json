@@ -107,8 +107,8 @@
 		"localSaleEnabled": true,
 		"isManualAcquirerSelection": false,
 		"preAuthEnabled": true,
-		"unattendedMode": true,
-		"slaveDeviceEnabled": true,
+		"unattendedMode": false,
+		"slaveDeviceEnabled": false,
 		"mdbManagerEnabled": false,
 		"mdbCreditsAvailable": 0,
 		"mdbCreditsLimitAvailable": 0,
@@ -231,13 +231,13 @@
 		"pbgYellowVMid": "140974429",
 		"pbgYellowPointsToRedeem": "2000",
 		"sklavenitisPrepaidEnabled": false,
-		"asfalistikosgoneasEnabled": true,
+		"asfalistikosgoneasEnabled": false,
 		"asfalistikosgoneasForceOnline": false
 	},
 	"ecrSettings": {
-		"ecrSystem": true,
+		"ecrSystem": false,
 		"ecrSystemDefaultPort": 4000,
-		"ecrSystemMode": 1,
+		"ecrSystemMode": 0,
 		"ecrSystemProtocol": 0
 	},
 	"billPayment": {
