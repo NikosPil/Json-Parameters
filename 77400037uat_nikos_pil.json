@@ -4,7 +4,7 @@
 		"merchantCategoryCode": "5411",
 		"merchantApplicationType": "0",
 		"merchantPostalCode": "14122",
-		"merchantName": "SKLAVENITIS NEO IRAKLIO",
+		"merchantName": "Cardlink Test",
 		"merchantAddress": "L HRAKLEIOY 432 K THERMOPYLON  ATHHNA",
 		"merchantTelephone": "2102819986",
 		"cardlinkMerchantType": "",
@@ -18,27 +18,51 @@
 		"acquirers": [
 			{
 				"acqIndetifier": "014",
-				"acqName": "ALPHA BANK"
+				"acqName": "Nexi",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": false
 			},
 			{
 				"acqIndetifier": "026",
-				"acqName": "EURO BANK"
+				"acqName": "Worldline",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
 			},
 			{
 				"acqIndetifier": "011",
-				"acqName": "NBG"
+				"acqName": "NBG Pay",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
 			},
 			{
 				"acqIndetifier": "887",
-				"acqName": "CARDLINK ONE"
+				"acqName": "CARDLINK ONE",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
 			},
 			{
 				"acqIndetifier": "017",
-				"acqName": "Piraeus"
+				"acqName": "Piraeus Bank",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
 			},
 			{
 				"acqIndetifier": "016",
-				"acqName": "Attica"
+				"acqName": "Attica Bank",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
 			}
 		]
 	},
@@ -48,29 +72,30 @@
 	"allowTransactions": {
 		"isAllowSalesPayment": true,
 		"isAllowVoidPayment": true,
-		"isAllowRefundPayment": true
+		"isAllowRefundPayment": true,
+		"isAllowMotoPayment": true
 	},
 	"applicationSettings": {
 		"sdkLink": 1,
 		"useMastercardNewBrand": true,
-		"supportKeyEntry": false,
+		"supportKeyEntry": true,
 		"supportInstallments": false,
-		"supportTIP": true,
+		"supportTIP": false,
 		"useBenakiTheme": false,
 		"useVodafoneTheme": false,
 		"useSklavenitisTheme": false,
 		"autoReactivationTimer": "180",
-		"useAutoCloseBatch": true,
+		"useAutoCloseBatch": false,
 		"useAutoCloseBatchTimer": "21:20",
 		"useAutoParams": true,
 		"useAutoParamsTimer": "21:45",
-		"alphaBankDCCSupport": true,
+		"alphaBankDCCSupport": false,
 		"alphaBankDCCProfileId": "19011",
 		"alphaBankDCCPartnerId": "9011",
 		"alphaBankDCCMerchantNumber": "123419011",
 		"alphaBankDCCMinimumAmount": 100,
-		"euroBankDCCSupport": false,
-		"nbgAppSelectionEnabled": true,
+		"euroBankDCCSupport": true,
+		"nbgAppSelectionEnabled": false,
 		"nbgAppSelectionAcquirerBankId": "011",
 		"ishceSelectionEnabled": false,
 		"ishceSelectionAcquirerBankId": "011",
@@ -108,7 +133,7 @@
 		"isManualAcquirerSelection": true,
 		"preAuthEnabled": true,
 		"unattendedMode": false,
-		"slaveDeviceEnabled": false,
+    	"slaveDeviceEnabled": false,
 		"mdbManagerEnabled": false,
 		"mdbCreditsAvailable": 0,
 		"mdbCreditsLimitAvailable": 0,
@@ -122,10 +147,11 @@
 		"receiptSettings": {
 			"showEmvDataInReceipt": false,
 			"acquirerBankNameAsBIDSetting": false,
+			"merchantReceipt": true,
 			"barcodeSetting": "01",
-			"customLogo": "https://mpos.cardlink.gr/files/android/resources/receipts/sklavenitis_logo.png",
+			"customLogo": "",
 			"dualLogoPrint": false,
-			"cardlinkLogoOnTop": false,
+			"cardlinkLogoOnTop": true,
 			"asfalistikosgoneasPromoMessage": "ΕΞΟΦΛΗΣΤΕ ΤΑ ΑΣΦΑΛΙΣΤΡΑ ΣΑΣ ΜΕ ΠΙΣΤΩΤΙΚΗ ΚΑΡΤΑ ΚΑΙ ΚΕΡΔΙΣΤΕ ΕΚΠΤΩΣΗ ΕΩΣ ΚΑΙ 10% ΕΝΗΜΕΡΩΘΕΙΤΕ ΣΤΟ 210 8119670"
 		}
 	},
@@ -214,7 +240,7 @@
 		}
 	],
 	"loyaltySettings": {
-		"alphaBankBonusEnabled": false,
+		"alphaBankBonusEnabled": true,
 		"alphaBankBonusVTid": "71000833",
 		"alphaBankBonusVMid": "0021701727",
 		"useAlphaBankBonusBRAmount": false,
@@ -223,23 +249,25 @@
 		"eurobankEuroepistrofiVTid": "71000833",
 		"eurobankEuroepistrofiVMid": "0021701727",
 		"eurobankEuroepistrofiUploadFullRedemption": false,
-		"nbgGo4MoreEnabled": false,
-		"nbgGo4MoreVTid": "33015845",
-		"nbgGo4MoreVMid": "3166741",
+		"nbgGo4MoreEnabled": true,
+		"nbgGo4MoreVTid": "77600590",
+		"nbgGo4MoreVMid": "0123455",
 		"pbgYellowEnabled": false,
 		"pbgYellowVTid": "03974427",
 		"pbgYellowVMid": "140974429",
 		"pbgYellowPointsToRedeem": "2000",
 		"sklavenitisPrepaidEnabled": false,
 		"asfalistikosgoneasEnabled": false,
-		"asfalistikosgoneasForceOnline": false
+		"asfalistikosgoneasForceOnline": false,
+		"cardlinkLoyaltyEnabled": false
 	},
-	"ecrSettings": {
-		"ecrSystem": false,
-		"ecrSystemDefaultPort": 4000,
-		"ecrSystemMode": 0,
-		"ecrSystemProtocol": 0
-	},
+    "ecrSettings": {
+        "ecrSystem" : true,
+        "ecrSystemDefaultPort" : 4000,
+        "ecrSystemMode" : 0,
+        "ecrSystemProtocol" : 0,
+    	"supportBonusPoolBlock" : true
+    },
 	"billPayment": {
 		"useBillPayment": false,
 		"merchantBanknumber": "",
