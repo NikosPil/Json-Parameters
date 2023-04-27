@@ -99,7 +99,7 @@
       }
    },
    "loyaltySettings":{
-      "alphaBankBonusEnabled":false,
+      "alphaBankBonusEnabled":true,
       "alphaBankBonusVTid":"77400039",
       "alphaBankBonusVMid":"0100984178",
       "useAlphaBankBonusBRAmount":false,
@@ -108,7 +108,7 @@
       "eurobankEuroepistrofiVTid":"77400039",
       "eurobankEuroepistrofiVMid":"0100984178",
       "eurobankEuroepistrofiUploadFullRedemption":false,
-      "nbgGo4MoreEnabled":true,
+      "nbgGo4MoreEnabled":false,
       "nbgGo4MoreVTid":"31999984",
       "nbgGo4MoreVMid":"1235661",
       "pbgYellowEnabled":false,
