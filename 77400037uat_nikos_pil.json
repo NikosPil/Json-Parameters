@@ -21,8 +21,8 @@
 				"acqName": "Nexi",
                 "allowLocal": true,
                 "allowRefund": true,
-                "allowKeyEntry": true,
-                "allowMoto": false
+                "allowKeyEntry": false,
+                "allowMoto": true
 			},
 			{
 				"acqIndetifier": "026",
@@ -130,7 +130,7 @@
 		},
 		"refundValidationEnabled": false,
 		"localSaleEnabled": true,
-		"isManualAcquirerSelection": false,
+		"isManualAcquirerSelection": true,
 		"preAuthEnabled": true,
 		"unattendedMode": false,
     	"slaveDeviceEnabled": false,
