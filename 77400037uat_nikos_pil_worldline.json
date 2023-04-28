@@ -99,7 +99,7 @@
       }
    },
    "loyaltySettings":{
-      "alphaBankBonusEnabled":false,
+      "alphaBankBonusEnabled":true,
       "alphaBankBonusVTid":"77400039",
       "alphaBankBonusVMid":"0100984178",
       "useAlphaBankBonusBRAmount":false,
@@ -115,7 +115,7 @@
       "pbgYellowVTid":"",
       "pbgYellowVMid":"",
       "pbgYellowPointsToRedeem":"2000",
-      "sklavenitisPrepaidEnabled":true,
+      "sklavenitisPrepaidEnabled":false,
       "asfalistikosgoneasEnabled":false,
       "asfalistikosgoneasForceOnline":false,
       "cardlinkLoyaltyEnabled": false 
