@@ -115,8 +115,8 @@
       "pbgYellowVTid":"",
       "pbgYellowVMid":"",
       "pbgYellowPointsToRedeem":"2000",
-      "sklavenitisPrepaidEnabled":false,
-      "asfalistikosgoneasEnabled":true,
+      "sklavenitisPrepaidEnabled":true,
+      "asfalistikosgoneasEnabled":false,
       "asfalistikosgoneasForceOnline":false,
       "cardlinkLoyaltyEnabled": false 
    },
