@@ -249,7 +249,7 @@
 		"eurobankEuroepistrofiVTid": "71000833",
 		"eurobankEuroepistrofiVMid": "0021701727",
 		"eurobankEuroepistrofiUploadFullRedemption": false,
-		"nbgGo4MoreEnabled": true,
+		"nbgGo4MoreEnabled": false,
 		"nbgGo4MoreVTid": "77600590",
 		"nbgGo4MoreVMid": "0123455",
 		"pbgYellowEnabled": false,
@@ -259,7 +259,7 @@
 		"sklavenitisPrepaidEnabled": false,
 		"asfalistikosgoneasEnabled": false,
 		"asfalistikosgoneasForceOnline": false,
-		"cardlinkLoyaltyEnabled": false
+		"cardlinkLoyaltyEnabled": true
 	},
     "ecrSettings": {
         "ecrSystem" : true,
