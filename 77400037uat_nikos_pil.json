@@ -132,7 +132,7 @@
 		"localSaleEnabled": true,
 		"isManualAcquirerSelection": true,
 		"preAuthEnabled": true,
-		"unattendedMode": true,
+		"unattendedMode": false,
     	"slaveDeviceEnabled": false,
 		"mdbManagerEnabled": false,
 		"mdbCreditsAvailable": 0,
@@ -264,7 +264,7 @@
     "ecrSettings": {
         "ecrSystem" : true,
         "ecrSystemDefaultPort" : 4000,
-        "ecrSystemMode" : 1,
+        "ecrSystemMode" : 0,
         "ecrSystemProtocol" : 0,
     	"supportBonusPoolBlock" : true
     },
