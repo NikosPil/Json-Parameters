@@ -130,7 +130,7 @@
 		},
 		"refundValidationEnabled": false,
 		"localSaleEnabled": true,
-		"isManualAcquirerSelection": false,
+		"isManualAcquirerSelection": true,
 		"preAuthEnabled": true,
 		"unattendedMode": false,
     	"slaveDeviceEnabled": false,
@@ -240,7 +240,7 @@
 		}
 	],
 	"loyaltySettings": {
-		"alphaBankBonusEnabled": false,
+		"alphaBankBonusEnabled": true,
 		"alphaBankBonusVTid": "71000833",
 		"alphaBankBonusVMid": "0021701727",
 		"useAlphaBankBonusBRAmount": false,
@@ -249,15 +249,15 @@
 		"eurobankEuroepistrofiVTid": "71000833",
 		"eurobankEuroepistrofiVMid": "0021701727",
 		"eurobankEuroepistrofiUploadFullRedemption": false,
-		"nbgGo4MoreEnabled": false,
+		"nbgGo4MoreEnabled": true,
 		"nbgGo4MoreVTid": "77600590",
 		"nbgGo4MoreVMid": "0123455",
-		"pbgYellowEnabled": false,
+		"pbgYellowEnabled": true,
 		"pbgYellowVTid": "03974427",
 		"pbgYellowVMid": "140974429",
 		"pbgYellowPointsToRedeem": "2000",
-		"sklavenitisPrepaidEnabled": false,
-		"asfalistikosgoneasEnabled": false,
+		"sklavenitisPrepaidEnabled": true,
+		"asfalistikosgoneasEnabled": true,
 		"asfalistikosgoneasForceOnline": false,
 		"cardlinkLoyaltyEnabled": false
 	},
@@ -630,7 +630,7 @@
 					"contactRandomTransactionSelect": "1",
 					"velocityCheck": "1",
 					"thresholdValueInRandomSelection": "0",
-					"alphabankDccBelowCvmLimit": false,
+					"alphabankDccBelowCvmLimit": true,
 					"alphaBankDCCDisclaimer": [
 						"I HAVE CHOSEN TO PAY IN %dccCurrencyName% & UNDERSTAND",
 						"MY CHOICE OF CURRENCY IS FINAL.",
@@ -640,7 +640,7 @@
 						"THIS SERVICE IS PROVIDED BY CARDLINK",
 						"IN ASSOCIATION WITH FINTRAX."
 					],
-					"eurobankDccBelowCvmLimit": false,
+					"eurobankDccBelowCvmLimit": true,
 					"eurobankDCCDisclaimer": [
 						"I HAVE CHOSEN NOT TO USE THE MASTERCARD",
 						"CURRENCY CONVERSION PROCESS AND I WILL",
@@ -698,7 +698,7 @@
 						"THIS SERVICE IS PROVIDED BY CARDLINK",
 						"IN ASSOCIATION WITH FINTRAX."
 					],
-					"eurobankDccBelowCvmLimit": false,
+					"eurobankDccBelowCvmLimit": true,
 					"eurobankDCCDisclaimer": [
 						"I HAVE CHOSEN TO PAY IN %dccCurrencyName% & UNDERSTAND",
 						"MY CHOICE OF CURRENCY IS FINAL.",
@@ -744,7 +744,7 @@
 					"contactRandomTransactionSelect": "1",
 					"velocityCheck": "1",
 					"thresholdValueInRandomSelection": "0",
-					"alphabankDccBelowCvmLimit": false,
+					"alphabankDccBelowCvmLimit": true,
 					"alphaBankDCCDisclaimer": [
 						"I HAVE CHOSEN TO PAY IN %dccCurrencyName% & UNDERSTAND",
 						"MY CHOICE OF CURRENCY IS FINAL.",
@@ -754,7 +754,7 @@
 						"THIS SERVICE IS PROVIDED BY CARDLINK",
 						"IN ASSOCIATION WITH FINTRAX."
 					],
-					"eurobankDccBelowCvmLimit": false,
+					"eurobankDccBelowCvmLimit": true,
 					"eurobankDCCDisclaimer": [
 						"I HAVE CHOSEN TO PAY IN %dccCurrencyName% & UNDERSTAND",
 						"MY CHOICE OF CURRENCY IS FINAL.",
