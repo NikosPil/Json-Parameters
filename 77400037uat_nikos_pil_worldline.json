@@ -338,7 +338,7 @@
 	 "downloadingBmp": "https://mpos.cardlink.gr/files/easylink/d188/bmp/downloading.bmp",
 	 "failedBmp": "https://mpos.cardlink.gr/files/easylink/d188/bmp/failed.bmp",
 	 "insertBmp": "https://mpos.cardlink.gr/files/easylink/d188/bmp/insert.bmp",
-	 "logoBmp": "https://jsonparameterhost.000webhostapp.com/d188/bmp/logo.bmp",
+	 "logoBmp": "https://mpos.cardlink.gr/files/easylink/d188/bmp/logo.bmp",
 	 "successfulBmp": "https://mpos.cardlink.gr/files/easylink/d188/bmp/successful.bmp",
 	 "swipedBmp": "https://mpos.cardlink.gr/files/easylink/d188/bmp/swiped.bmp",
 	 "tapBmp": "https://mpos.cardlink.gr/files/easylink/d188/bmp/tap.bmp",
