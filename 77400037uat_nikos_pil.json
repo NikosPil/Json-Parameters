@@ -21,7 +21,7 @@
 				"acqName": "Nexi",
                 "allowLocal": true,
                 "allowRefund": true,
-                "allowKeyEntry": true,
+                "allowKeyEntry": false,
                 "allowMoto": true
 			},
 			{
