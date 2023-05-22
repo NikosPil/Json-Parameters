@@ -3,176 +3,176 @@
 <description></description>
 	<Screen width="320" height="240" name="320x240">
 		<Page name="Idle.xml">
-			<TextBox name="text1" x="0" y="180" value="            " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="180" value="            " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="tapcard" x="100" y="35" value="logo.bmp"></PictureBox>
 		</Page>
 		<Page name="GetCard.xml">
-			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="50" value="             " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="80" value="        " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="50" value="             " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="80" value="        " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="swipedcard" x="20" y="110" value="swiped.bmp"></PictureBox>
 			<PictureBox name="insertcard" x="120" y="110" value="insert.bmp"></PictureBox>
 			<PictureBox name="tapcard" x="220" y="110" value="tap.bmp"></PictureBox>
 		</Page>
 		<Page name="SwipeCard.xml">
-			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="                 " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="                 " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="swipedcard" x="120" y="110" value="swiped.bmp"></PictureBox>
 		</Page>
 		<Page name="InsertCard.xml">
-			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="                  " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="                  " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="insertcard" x="120" y="110" value="insert.bmp"></PictureBox>
 		</Page>
 		<Page name="TapCard.xml">
-			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="               " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="               " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="tapcard" x="120" y="110" value="tap.bmp"></PictureBox>
 		</Page>
 		<Page name="SwipeInsert.xml">
-			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="                            " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="                            " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="swipedcard" x="54" y="110" value="swiped.bmp"></PictureBox>
 			<PictureBox name="insertcard" x="188" y="110" value="insert.bmp"></PictureBox>
 		</Page>
 		<Page name="SwipeTap.xml">
-			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="                           " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="                           " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="swipedcard" x="54" y="110" value="swiped.bmp"></PictureBox>
 			<PictureBox name="tapcard" x="188" y="110" value="tap.bmp"></PictureBox>
 		</Page>
 		<Page name="InsertTap.xml">
-			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="                          " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="                          " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="insertcard" x="54" y="110" value="insert.bmp"></PictureBox>
 			<PictureBox name="tapcard" x="188" y="110" value="tap.bmp"></PictureBox>
 		</Page>
 		<Page name="UnkownDetectType.xml">
-			<TextBox name="text1" x="0" y="36" value="UNKONWN DETECT TYPE" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="36" value="UNKONWN DETECT TYPE" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="Fallback.xml">
-			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="                 " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="                 " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="swipedcard" x="120" y="110" value="swiped.bmp"></PictureBox>
 		</Page>
 		<Page name="ReswipeCard.xml">
-			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="RESWIPE CARD" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="Amount" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="RESWIPE CARD" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="swipedcard" x="120" y="110" value="swiped.bmp"></PictureBox>
 		</Page>
 		<Page name="TryAnotherInter.xml">
-            <TextBox name="text1" x="0" y="72" value="TRY ANOTHER" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-            <TextBox name="text2" x="0" y="104" value="INTERFACE" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+            <TextBox name="text1" x="0" y="72" value="TRY ANOTHER" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+            <TextBox name="text2" x="0" y="104" value="INTERFACE" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="swipedcard" x="20" y="110" value="swiped.bmp"></PictureBox>
 			<PictureBox name="insertcard" x="120" y="110" value="insert.bmp"></PictureBox>
         </Page>
 		<Page name="TapCardAgain.xml">
-			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="                    " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="                    " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="tapcard" x="120" y="110" value="tap.bmp"></PictureBox>
 		</Page>	
 		<Page name="SwipeCardAgain.xml">
-			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="                      " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="                      " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="tapcard" x="120" y="110" value="swiped.bmp"></PictureBox>
 		</Page>
 		<Page name="InsertCardAgain.xml">
-			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="                       " fontSize="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" textAlign="2" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="                       " fontSize="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" textAlign="2" mode="0" keyAccept="1"></TextBox>
 			<PictureBox name="tapcard" x="120" y="110" value="insert.bmp"></PictureBox>
 		</Page>		
 		<Page name="RetryInsertTap.xml">
-			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="Insert, or Try" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text2" x="0" y="96" value="Another Card" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="Insert, or Try" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text2" x="0" y="96" value="Another Card" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="RetrySwipeTap.xml">
-			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="Swipe/Try" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text2" x="0" y="96" value="Another Card" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="Swipe/Try" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text2" x="0" y="96" value="Another Card" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="RetryInsertSwipeTap.xml">
-			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="56" value="                  ," fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text1" x="0" y="96" value="                 ," fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text2" x="0" y="136" value="                    " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="textAmt" x="0" y="16" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="56" value="                  ," fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="96" value="                 ," fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text2" x="0" y="136" value="                    " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>	
 		<Page name="RemoveCard.xml">
-			<TextBox name="text1" x="0" y="104" value="               " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="104" value="               " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="ReadCardErr.xml">
-			<TextBox name="text1" x="0" y="104" value="READ CARD ERR" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="104" value="READ CARD ERR" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="OpenPiccErr.xml">
-			<TextBox name="text1" x="0" y="104" value="OPEN PICC ERR" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="104" value="OPEN PICC ERR" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="TooManyCards.xml">
-			<TextBox name="text1" x="0" y="104" value="             !" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="104" value="             !" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="Processing.xml">
-			<TextBox name="text1" x="0" y="72" value="           ..." fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text2" x="0" y="104" value="             " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="72" value="           ..." fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text2" x="0" y="104" value="             " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="Processing.xml">
-            <TextBox name="text1" x="0" y="72" value="REQUEST ONLINE" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-            <TextBox name="text2" x="0" y="104" value="PLS NOT REMOVE" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+            <TextBox name="text1" x="0" y="72" value="REQUEST ONLINE" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+            <TextBox name="text2" x="0" y="104" value="PLS NOT REMOVE" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
         </Page>
 		<Page name="SeePhone.xml">
-			<TextBox name="text1" x="0" y="104" value="            " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="104" value="            " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="NeedOnline.xml">
-            <TextBox name="text1" x="0" y="72" value="           ..." fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-            <TextBox name="text2" x="0" y="104" value="             " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+            <TextBox name="text1" x="0" y="72" value="           ..." fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+            <TextBox name="text2" x="0" y="104" value="             " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
         </Page>
         <Page name="TxnApproved.xml">
-            <TextBox name="text1" x="0" y="104" value="                   " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+            <TextBox name="text1" x="0" y="104" value="                   " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
         </Page>
         <Page name="TxnDeclined.xml">
-            <TextBox name="text1" x="0" y="104" value="                     " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+            <TextBox name="text1" x="0" y="104" value="                     " fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
         </Page>
 		<Page name="AppSelect.xml">
-			<TextBox name="title" x="0" y="0" value="                 :" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="title" x="0" y="0" value="                 :" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 			<MenuList name="MenuList1" x="0" y="8" numRows="5" fontSize="2">
-				<MenuItem name="menuitem1"  x="0" y="8" value="" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf"></Menu>
-				<MenuItem name="menuitem2"  x="0" y="16" value="" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf"></Menu>
-				<MenuItem name="menuitem3"  x="0" y="8" value="" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf"></Menu>
-				<MenuItem name="menuitem4"  x="0" y="16" value="" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf"></Menu>
-				<MenuItem name="menuitem5"  x="0" y="8" value="" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf"></Menu>
+				<MenuItem name="menuitem1"  x="0" y="8" value="" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin"></Menu>
+				<MenuItem name="menuitem2"  x="0" y="16" value="" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin"></Menu>
+				<MenuItem name="menuitem3"  x="0" y="8" value="" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin"></Menu>
+				<MenuItem name="menuitem4"  x="0" y="16" value="" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin"></Menu>
+				<MenuItem name="menuitem5"  x="0" y="8" value="" fontSize="2" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin"></Menu>
 			</MenuList>
 		</Page>
 		<Page name="AppSelectAgain.xml">
-			<TextBox name="text1" x="0" y="72" value="NOT ACCEPT!" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text2" x="0" y="104" value="PLS TRY AGAIN!" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="72" value="NOT ACCEPT!" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text2" x="0" y="104" value="PLS TRY AGAIN!" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="EnterPIN.xml">
-			<TextBox name="text1" x="0" y="72" value="            PIN:" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<InputBox name="input1" x="64" y="104" value="" fontSize="0" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" type="5" keyAccept="1" minlen="1" maxlen="12"></InputBox>
+			<TextBox name="text1" x="0" y="72" value="            PIN:" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<InputBox name="input1" x="64" y="104" value="" fontSize="0" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" type="5" keyAccept="1" minlen="1" maxlen="12"></InputBox>
 		</Page>
 		<Page name="PinError.xml">
-			<TextBox name="text1" x="0" y="72" value="      PIN" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text2" x="0" y="104" value="                !" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="72" value="      PIN" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text2" x="0" y="104" value="                !" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="LastEnterPin.xml">
-			<TextBox name="text1" x="0" y="72" value="                   PIN" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<InputBox name="input1" x="64" y="104" value="" fontSize="0" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" type="5" keyAccept="1" minlen="1" maxlen="12"></InputBox>
+			<TextBox name="text1" x="0" y="72" value="                   PIN" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<InputBox name="input1" x="64" y="104" value="" fontSize="0" textAlign="1" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" type="5" keyAccept="1" minlen="1" maxlen="12"></InputBox>
 		</Page>
 		<Page name="PinVerifyOK.xml">
-			<TextBox name="text1" x="0" y="104" value="      PIN" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="104" value="      PIN" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="AmountConfirm.xml">
-			<TextBox name="text1" x="0" y="0" value="Total amount:" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text2" x="0" y="32" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text3" x="0" y="64" value="CORRECT? Y/N" fontSize="2" textAlign="3" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="0" value="Total amount:" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text2" x="0" y="32" value="" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text3" x="0" y="64" value="CORRECT? Y/N" fontSize="2" textAlign="3" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="Timeout.xml">
-			<TextBox name="text1" x="0" y="104" value="TIMEOUT!" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="104" value="TIMEOUT!" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="PedErr.xml">
-			<TextBox name="text1" x="0" y="72" value="      PIN" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
-			<TextBox name="text2" x="0" y="104" value="                !" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="72" value="      PIN" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text2" x="0" y="104" value="                !" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 		<Page name="InvalidCard.xml">
-			<TextBox name="text1" x="0" y="104" value="INVALID CARD!" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/Inter-Light.ttf" mode="0" keyAccept="1"></TextBox>
+			<TextBox name="text1" x="0" y="104" value="INVALID CARD!" fontSize="2" textAlign="2" fontLib="https://nikospil.github.io/Json-Parameters/INTER.bin" mode="0" keyAccept="1"></TextBox>
 		</Page>
 	</Screen>
 </Root>
