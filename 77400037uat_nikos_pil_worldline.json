@@ -345,7 +345,7 @@
 	 "clssParam": "http://paschosmich.ddns.net:8000/d188/clss_param.txt",
 	 "emvParam": "https://mpos.cardlink.gr/files/easylink/d188/emv_param.txt",
 	 "greekLngParam": "https://mpos.cardlink.gr/files/easylink/d188/greek.txt",
-	 "uiGreekParam": "https://nikospil.github.io/Json-Parameters/ui_D188_greek.txt,
+	 "uiGreekParam": "https://nikospil.github.io/Json-Parameters/ui_D188_greek.txt",
 	 "uiD188": "https://nikospil.github.io/Json-Parameters/ui_D188.txt"
       },
       "im310_files":{
