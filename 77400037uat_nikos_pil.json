@@ -2,7 +2,7 @@
 	"merchant": {
 		"merchantCity": "HRAKLEION",
 		"merchantCategoryCode": "5411",
-		"merchantApplicationType": "4",
+		"merchantApplicationType": "0",
 		"merchantPostalCode": "14122",
 		"merchantName": "Cardlink Test",
 		"merchantAddress": "L HRAKLEIOY 432 K THERMOPYLON  ATHHNA",
@@ -131,7 +131,7 @@
 		"refundValidationEnabled": false,
 		"localSaleEnabled": true,
 		"isManualAcquirerSelection": true,
-		"preAuthEnabled": false,
+		"preAuthEnabled": true,
 		"unattendedMode": false,
     	"slaveDeviceEnabled": false,
 		"mdbManagerEnabled": false,
