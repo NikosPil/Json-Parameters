@@ -9,7 +9,7 @@
 		"merchantTelephone": "2102819986",
 		"cardlinkMerchantType": "",
 		"merchantID": "0101818297",
-		"terminalID": "71000452",
+		"terminalID": "71000485",
 		"customerID": "00000000000001",
 		"acqIndetifier": "",
 		"acqName": ""
@@ -19,10 +19,10 @@
 			{
 				"acqIndetifier": "026",
 				"acqName": "Worldline",
-                "allowLocal": true,
-                "allowRefund": true,
-                "allowKeyEntry": true,
-                "allowMoto": true
+                		"allowLocal": true,
+                		"allowRefund": true,
+                		"allowKeyEntry": true,
+                		"allowMoto": true
 			}
 		]
 	},
