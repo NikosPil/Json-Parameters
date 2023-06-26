@@ -80,7 +80,7 @@
 		"useMastercardNewBrand": true,
 		"supportKeyEntry": true,
 		"supportInstallments": false,
-		"supportTIP": true,
+		"supportTIP": false,
 		"useBenakiTheme": false,
 		"useVodafoneTheme": false,
 		"useSklavenitisTheme": false,
