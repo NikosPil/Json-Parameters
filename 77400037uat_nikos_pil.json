@@ -249,7 +249,7 @@
 		"eurobankEuroepistrofiEnabled": true,
 		"eurobankEuroepistrofiVTid": "71000833",
 		"eurobankEuroepistrofiVMid": "0021701727",
-		"eurobankEuroepistrofiUploadFullRedemption": false,
+		"eurobankEuroepistrofiUploadFullRedemption": true,
 		"nbgGo4MoreEnabled": false,
 		"nbgGo4MoreVTid": "77600590",
 		"nbgGo4MoreVMid": "0123455",
