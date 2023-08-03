@@ -71,9 +71,9 @@
 		"services": []
 	},
 	"allowTransactions": {
-		"isAllowSalesPayment": true,
+		"isAllowSalesPayment": false,
 		"isAllowVoidPayment": true,
-		"isAllowRefundPayment": false,
+		"isAllowRefundPayment": true,
 		"isAllowMotoPayment": true
 	},
 	"applicationSettings": {
