@@ -71,7 +71,7 @@
 		"services": []
 	},
 	"allowTransactions": {
-		"isAllowSalesPayment": true,
+		"isAllowSalesPayment": false,
 		"isAllowVoidPayment": false,
 		"isAllowRefundPayment": false,
 		"isAllowMotoPayment": true
