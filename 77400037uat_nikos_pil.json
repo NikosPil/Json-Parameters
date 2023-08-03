@@ -72,8 +72,8 @@
 	},
 	"allowTransactions": {
 		"isAllowSalesPayment": false,
-		"isAllowVoidPayment": true,
-		"isAllowRefundPayment": true,
+		"isAllowVoidPayment": false,
+		"isAllowRefundPayment": false,
 		"isAllowMotoPayment": true
 	},
 	"applicationSettings": {
