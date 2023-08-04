@@ -13,7 +13,7 @@
 		"customerID": "00000000000001",
 		"acqIndetifier": "",
 		"acqName": "",
-		"taxID" : "094496129"
+		"taxID" : "979703476"
 	},
 	"multiAcq": {
 		"acquirers": [
@@ -267,7 +267,8 @@
         "ecrSystemDefaultPort" : 4000,
         "ecrSystemMode" : 0,
         "ecrSystemProtocol" : 0,
-    	"supportBonusPoolBlock" : false
+    	"supportBonusPoolBlock" : false,
+	"ecrVendor" : "AADE"
     },
 	"billPayment": {
 		"useBillPayment": false,
