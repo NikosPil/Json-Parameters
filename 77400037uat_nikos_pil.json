@@ -266,8 +266,7 @@
         "ecrSystemDefaultPort" : 4000,
         "ecrSystemMode" : 0,
         "ecrSystemProtocol" : 0,
-    	"supportBonusPoolBlock" : false,
-	"ecrVendor" : "AADE"
+    	"supportBonusPoolBlock" : false
     },
 	"billPayment": {
 		"useBillPayment": false,
