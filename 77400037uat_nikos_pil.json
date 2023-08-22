@@ -72,7 +72,7 @@
 	},
 	"allowTransactions": {
 		"isAllowSalesPayment": true,
-		"isAllowVoidPayment": true,
+		"isAllowVoidPayment": false,
 		"isAllowRefundPayment": true,
 		"isAllowMotoPayment": true
 	},
@@ -131,7 +131,7 @@
 		},
 		"refundValidationEnabled": false,
 		"localSaleEnabled": true,
-		"isManualAcquirerSelection": true,
+		"isManualAcquirerSelection": false,
 		"preAuthEnabled": true,
 		"unattendedMode": false,
     	"slaveDeviceEnabled": false,
