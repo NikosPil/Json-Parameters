@@ -265,7 +265,7 @@
     "ecrSettings": {
         "ecrSystem" : true,
         "ecrSystemDefaultPort" : 4000,
-        "ecrSystemMode" : 0,
+        "ecrSystemMode" : 2,
         "ecrSystemProtocol" : 0,
     	"supportBonusPoolBlock" : false,
 	"ecrVendor" : "AADE"
