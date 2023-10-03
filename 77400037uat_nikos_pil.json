@@ -29,7 +29,7 @@
 				"acqIndetifier": "026",
 				"acqName": "Worldline",
                 "allowLocal": true,
-                "allowRefund": false,
+                "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true
 			},
