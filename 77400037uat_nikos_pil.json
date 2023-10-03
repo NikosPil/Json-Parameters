@@ -141,7 +141,7 @@
 		"fileLoggerEnabled": true,
 		"fileLoggerMBCapacity": 200,
 		"freeRefundEnabled": true,
-		"freeCompletionEnabled": true,
+		"freeCompletionEnabled": false,
 		"supportPleaseCallMeEnabled": true,
 		"supportOrderThermalRollEnabled": true,
 		"defaultLanguage": "el",
