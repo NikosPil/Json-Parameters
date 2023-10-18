@@ -13,7 +13,7 @@
 		"customerID": "00000000000001",
 		"acqIndetifier": "",
 		"acqName": "",
-		"taxID" : "979703476"
+		"merchantVatNumber" : "979703476"
 	},
 	"multiAcq": {
 		"acquirers": [
@@ -268,7 +268,7 @@
         "ecrSystemMode" : 0,
         "ecrSystemProtocol" : 0,
     	"supportBonusPoolBlock" : false,
-	"ecrVendor" : "AADE"
+	"ecrVendor" : "1"
     },
 	"billPayment": {
 		"useBillPayment": false,
