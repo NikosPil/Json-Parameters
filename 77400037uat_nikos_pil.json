@@ -260,7 +260,7 @@
 		"sklavenitisPrepaidEnabled": true,
 		"asfalistikosgoneasEnabled": true,
 		"asfalistikosgoneasForceOnline": false,
-		"cardlinkLoyaltyEnabled": true
+		"cardlinkLoyaltyEnabled": false
 	},
     "ecrSettings": {
         "ecrSystem" : true,
