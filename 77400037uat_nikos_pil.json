@@ -265,8 +265,8 @@
     "ecrSettings": {
         "ecrSystem" : true,
         "ecrSystemDefaultPort" : 4000,
-        "ecrSystemMode" : 0,
-        "ecrSystemProtocol" : 0,
+        "ecrSystemMode" : 1,
+        "ecrSystemProtocol" : 2,
     	"supportBonusPoolBlock" : false,
 	"ecrVendor" : "2"
     },
