@@ -11,7 +11,7 @@
 		"merchantID": "0101818297",
 		"terminalID": "71000858",
 		"customerID": "00000000000001",
-		"acqIndetifier": "",
+		"acqIndetifier": "",card
 		"acqName": "",
 		"merchantVatNumber" : "979703476"
 	},
@@ -96,7 +96,7 @@
 		"alphaBankDCCMerchantNumber": "123419011",
 		"alphaBankDCCMinimumAmount": 100,
 		"euroBankDCCSupport": true,
-		"nbgAppSelectionEnabled": false,
+		"nbgAppSelectionEnabled": true,
 		"nbgAppSelectionAcquirerBankId": "011",
 		"ishceSelectionEnabled": false,
 		"ishceSelectionAcquirerBankId": "011",
