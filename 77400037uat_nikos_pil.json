@@ -461,12 +461,12 @@
 			"emvParam": "http://paschosmich.ddns.net:8000/d177/emv_param.txt"
 		},
 		"sp20_files": {
-		      "bootFile" : "https://mpos.cardlink.gr/files/easylink/sp20/EasyLink_Lite_v1.11.00W_SP20V4_20220712_sign.txt",
-		      "uiParam" : "https://mpos.cardlink.gr/files/easylink/sp20/ui_sp20v4.txt",
-		      "uiGreekParam" : "https://mpos.cardlink.gr/files/easylink/sp20/ui_sp20v4_greek.txt",
-		      "clssParam" : "https://mpos.cardlink.gr/files/easylink/sp20/clss_param.txt",
-		      "emvParam" : "https://mpos.cardlink.gr/files/easylink/sp20/emv_param.txt",
-		      "greekLngParam" : "https://mpos.cardlink.gr/files/easylink/sp20/greek.txt"
+		      "bootFile" : "https://nikospil.github.io/Json-Parameters/easylink/sp20/EasyLink_Lite_v1.11.00_SP20V4_20220712_sign.txt",
+		      "uiParam" : "https://nikospil.github.io/Json-Parameters/easylink/sp20/ui_sp20v4.txt",
+		      "uiGreekParam" : "https://nikospil.github.io/Json-Parameters/easylink/sp20/ui_sp20v4_greek.txt",
+		      "clssParam" : "https://nikospil.github.io/Json-Parameters/easylink/sp20/clss_param.txt",
+		      "emvParam" : "https://nikospil.github.io/Json-Parameters/easylink/sp20/emv_param.txt",
+		      "greekLngParam" : "https://nikospil.github.io/Json-Parameters/easylink/sp20/greek.txt"
 		},
 		"r20_files": {
 			"uiParam": "http://paschosmich.ddns.net:8000/r20/ui_r20.txt",
