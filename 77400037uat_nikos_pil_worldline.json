@@ -12,7 +12,8 @@
 		"terminalID": "71000485",
 		"customerID": "00000000000001",
 		"acqIndetifier": "",
-		"acqName": ""
+		"acqName": "",
+		"merchantVatNumber" : "979703476"
 	},
 	"multiAcq": {
 		"acquirers": [
@@ -102,7 +103,7 @@
 		"freeRefundEnabled": true,
 		"freeCompletionEnabled": true,
 		"supportPleaseCallMeEnabled": true,
-		"supportOrderThermalRollEnabled": true,
+		"supportOrderThermalRollEnabled": false,
 		"defaultLanguage": "el",
 		"receiptSettings": {
 			"showEmvDataInReceipt": false,
