@@ -132,7 +132,7 @@
 		"localSaleEnabled": true,
 		"isManualAcquirerSelection": false,
 		"preAuthEnabled": true,
-		"unattendedMode": true,
+		"unattendedMode": false,
     	"slaveDeviceEnabled": false,
 		"mdbManagerEnabled": false,
 		"mdbCreditsAvailable": 0,
@@ -143,7 +143,7 @@
 		"freeCompletionEnabled": true,
 		"supportPleaseCallMeEnabled": true,
 		"supportOrderThermalRollEnabled": true,
-		"defaultLanguage": "en",
+		"defaultLanguage": "el",
 		"receiptSettings": {
 			"showEmvDataInReceipt": false,
 			"acquirerBankNameAsBIDSetting": false,
