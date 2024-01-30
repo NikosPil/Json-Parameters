@@ -17,12 +17,52 @@
 	"multiAcq": {
 		"acquirers": [
 			{
+				"acqIndetifier": "014",
+				"acqName": "Nexi",
+                "allowLocal": false,
+                "allowRefund": true,
+                "allowKeyEntry": false,
+                "allowMoto": true
+			},
+			{
 				"acqIndetifier": "026",
 				"acqName": "Worldline",
-                		"allowLocal": true,
-                		"allowRefund": true,
-                		"allowKeyEntry": true,
-                		"allowMoto": true
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
+			},
+			{
+				"acqIndetifier": "011",
+				"acqName": "NBG Pay",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
+			},
+			{
+				"acqIndetifier": "887",
+				"acqName": "CARDLINK ONE",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
+			},
+			{
+				"acqIndetifier": "017",
+				"acqName": "Piraeus Bank",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
+			},
+			{
+				"acqIndetifier": "016",
+				"acqName": "Attica Bank",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
 			}
 		]
 	},
@@ -92,7 +132,7 @@
 		"localSaleEnabled": true,
 		"isManualAcquirerSelection": false,
 		"preAuthEnabled": true,
-		"unattendedMode": false,
+		"unattendedMode": true,
     	"slaveDeviceEnabled": false,
 		"mdbManagerEnabled": false,
 		"mdbCreditsAvailable": 0,
