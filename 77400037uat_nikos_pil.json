@@ -83,7 +83,7 @@
 		"supportInstallments": false,
 		"supportTIP": true,
 		"useBenakiTheme": false,
-		"useVodafoneTheme": false,
+		"useVodafoneTheme": true,
 		"useSklavenitisTheme": false,
 		"autoReactivationTimer": "180",
 		"useAutoCloseBatch": true,
