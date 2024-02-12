@@ -12,8 +12,7 @@
 		"terminalID": "77400037",
 		"customerID": "00000000000001",
 		"acqIndetifier": "",
-		"acqName": "",
-		"merchantVatNumber" : "979703476"
+		"acqName": ""
 	},
 	"multiAcq": {
 		"acquirers": [
@@ -268,7 +267,7 @@
         "ecrSystemMode" : 0,
         "ecrSystemProtocol" : 0,
     	"supportBonusPoolBlock" : false,
-	"ecrVendor" : "0"
+	"ecrVendor" : "1"
     },
 	"billPayment": {
 		"useBillPayment": false,
