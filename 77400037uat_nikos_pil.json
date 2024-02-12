@@ -12,7 +12,8 @@
 		"terminalID": "77400037",
 		"customerID": "00000000000001",
 		"acqIndetifier": "",
-		"acqName": ""
+		"acqName": "",
+		"merchantVatNumber" : "979703476"
 	},
 	"multiAcq": {
 		"acquirers": [
