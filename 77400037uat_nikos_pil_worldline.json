@@ -226,7 +226,8 @@
         "ecrSystem" : true,
         "ecrSystemDefaultPort" : 4000,
         "ecrSystemMode" : 0,
-        "ecrSystemProtocol" : 2,
+        "ecrSystemProtocol" : 0,
+	"ecrVendor" : 1,
     	"supportBonusPoolBlock" : true
     },
 	"billPayment": {
