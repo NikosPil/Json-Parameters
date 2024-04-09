@@ -1,20 +1,20 @@
 {
-  "merchant" : {
-    "merchantCity" : "THESSALONIKH",
-    "merchantCategoryCode" : "5211",
-    "merchantApplicationType" : "0",
-    "merchantPostalCode" : "54627",
-    "merchantName" : "VAMVAKIDIS MARIOS",
-    "merchantAddress" : "PALAIOY SIDHRODROMIKOY  72  THESSALONIKH",
-    "merchantTelephone" : "2310523650",
-    "merchantVatNumber" : "119893998",
-    "cardlinkMerchantType" : "",
-    "merchantID" : "0021884945",
-    "terminalID" : "77840779",
-    "customerID" : "00000000000001",
-    "acqIndetifier" : "014",
-    "acqName" : "NEXI"
-  },
+  "merchant": {
+		"merchantCity": "HRAKLEION",
+		"merchantCategoryCode": "5411",
+		"merchantApplicationType": "0",
+		"merchantPostalCode": "14122",
+		"merchantName": "Cardlink Test",
+		"merchantAddress": "L HRAKLEIOY 432 K THERMOPYLON  ATHHNA",
+		"merchantTelephone": "2102819986",
+		"cardlinkMerchantType": "",
+		"merchantID": "0101918200",
+		"terminalID": "77400037",
+		"customerID": "00000000000001",
+		"acqIndetifier": "",
+		"acqName": "",
+		"merchantVatNumber" : "979703476"
+	},
   "multiAcq" : {
     "acquirers" : [ {
       "acqIndetifier" : "014",
