@@ -51,7 +51,7 @@
 			},
 			{
 				"acqIndetifier": "017",
-				"acqName": "Piraeus Bank",
+				"acqName": "epay",
                 "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
