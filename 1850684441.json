@@ -147,7 +147,7 @@
 		"defaultLanguage": "el",
 		"receiptSettings": {
 			"showEmvDataInReceipt": false,
-			"acquirerBankNameAsBIDSetting": true,
+			"acquirerBankNameAsBIDSetting": false,
 			"merchantReceipt": true,
 			"barcodeSetting": "01",
 			"customLogo": "",
