@@ -103,7 +103,7 @@
 		"freeRefundEnabled": true,
 		"freeCompletionEnabled": true,
 		"supportPleaseCallMeEnabled": true,
-		"supportOrderThermalRollEnabled": fall,
+		"supportOrderThermalRollEnabled": false,
 		"defaultLanguage": "el",
 		"receiptSettings": {
 			"showEmvDataInReceipt": false,
