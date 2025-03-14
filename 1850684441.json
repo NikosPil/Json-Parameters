@@ -109,7 +109,7 @@
 		"receiptSettings": {
 			"showEmvDataInReceipt": false,
 			"acquirerBankNameAsBIDSetting": false,
-			"merchantReceipt": true,
+			"merchantReceipt": false,
 			"barcodeSetting": "01",
 			"customLogo": "",
 			"dualLogoPrint": false,
