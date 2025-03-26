@@ -23,7 +23,7 @@
                 "allowLocal": false,
                 "allowRefund": false,
                 "allowKeyEntry": false,
-                "allowMoto": true
+                "allowMoto": false
 			}
 		]
 	},
@@ -32,9 +32,9 @@
 	},
 	"allowTransactions": {
 		"isAllowSalesPayment": true,
-		"isAllowVoidPayment": true,
+		"isAllowVoidPayment": false,
 		"isAllowRefundPayment": false,
-		"isAllowMotoPayment": true
+		"isAllowMotoPayment": false
 	},
 	"applicationSettings": {
 		"sdkLink": 1,
