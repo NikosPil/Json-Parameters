@@ -229,7 +229,7 @@
         "ecrSystemMode" : 0,
         "ecrSystemProtocol" : 0,
     	"supportBonusPoolBlock" : true,
-	"ecrVendor" : "1"
+	"ecrVendor" : "2"
     },
 	"billPayment": {
 		"useBillPayment": false,
