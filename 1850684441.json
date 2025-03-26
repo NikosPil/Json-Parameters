@@ -21,7 +21,7 @@
 				"acqIndetifier": "014",
 				"acqName": "Nexi",
                 "allowLocal": false,
-                "allowRefund": true,
+                "allowRefund": false,
                 "allowKeyEntry": false,
                 "allowMoto": true
 			}
@@ -33,7 +33,7 @@
 	"allowTransactions": {
 		"isAllowSalesPayment": true,
 		"isAllowVoidPayment": true,
-		"isAllowRefundPayment": true,
+		"isAllowRefundPayment": false,
 		"isAllowMotoPayment": true
 	},
 	"applicationSettings": {
