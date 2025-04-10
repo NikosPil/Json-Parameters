@@ -21,10 +21,10 @@
 				"acqIndetifier": "014",
 				"acqName": "Nexi",
 				"acqTheme": "corn",
-                "allowLocal": false,
+                "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
-                "allowMoto": false
+                "allowMoto": true
 			}
 		]
 	},
@@ -219,8 +219,8 @@
 		"pbgYellowVTid": "03974427",
 		"pbgYellowVMid": "140974429",
 		"pbgYellowPointsToRedeem": "2000",
-		"sklavenitisPrepaidEnabled": false,
-		"asfalistikosgoneasEnabled": false,
+		"sklavenitisPrepaidEnabled": true,
+		"asfalistikosgoneasEnabled": true,
 		"asfalistikosgoneasForceOnline": false,
 		"cardlinkLoyaltyEnabled": false
 	},
