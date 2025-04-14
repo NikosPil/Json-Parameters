@@ -47,7 +47,7 @@
 		"useVodafoneTheme": false,
 		"useSklavenitisTheme": false,
 		"autoReactivationTimer": "180",
-		"useAutoSettlement": false,
+		"useAutoSettlement": true,
 		"useAutoCloseBatch": true,
 		"useAutoCloseBatchTimer": "14:25",
 		"useAutoParams": true,
