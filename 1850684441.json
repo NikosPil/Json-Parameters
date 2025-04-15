@@ -18,8 +18,8 @@
 	"multiAcq": {
 		"acquirers": [
 			{
-				"acqIndetifier": "014",
-				"acqName": "Nexi",
+				"acqIndetifier": "026",
+				"acqName": "Worldline",
 				"acqTheme": "corn",
                 "allowLocal": true,
                 "allowRefund": true,
