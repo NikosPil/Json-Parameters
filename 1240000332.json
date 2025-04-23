@@ -1,4 +1,4 @@
-{
+ψ{
 	"merchant": {
 		"merchantCity": "HRAKLEION",
 		"merchantCategoryCode": "5411",
@@ -20,6 +20,7 @@
 			{
 				"acqIndetifier": "014",
 				"acqName": "Nexi",
+				"acqTheme": "corn",
                 "allowLocal": false,
                 "allowRefund": true,
                 "allowKeyEntry": false,
