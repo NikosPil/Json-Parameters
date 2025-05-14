@@ -461,7 +461,7 @@
 			"emvParam": "http://paschosmich.ddns.net:8000/d177/emv_param.txt"
 		},
 		"sp20_files" : {
-      			"bootFile": "https://mpos.cardlink.gr/files/easylink/sp20/EasyLink_Lite_v1.11.00W_SP20V4_20220712_sign.txt",
+      			"bootFile": "http://nikospil.github.io/Json-Parameters/EasyLink_Lite_v1.13.08_SP20V4_20240511_sign.txt",
 			"uiParam": "https://mpos.cardlink.gr/files/easylink/sp20/ui_sp20v4.txt",
 			"uiGreekParam": "https://mpos.cardlink.gr/files/easylink/sp20/ui_sp20v4_greek.txt",
 			"clssParam": "https://mpos.cardlink.gr/files/easylink/sp20/clss_param.txt",
