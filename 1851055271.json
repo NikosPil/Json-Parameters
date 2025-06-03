@@ -35,7 +35,7 @@
 		"isAllowSalesPayment": true,
 		"isAllowVoidPayment": true,
 		"isAllowRefundPayment": true,
-		"isAllowMotoPayment": false
+		"isAllowMotoPayment": true
 	},
 	"applicationSettings": {
 		"sdkLink": 1,
@@ -230,7 +230,7 @@
         "ecrSystemDefaultPort" : 4000,
         "ecrSystemMode" : 0,
         "ecrSystemProtocol" : 0,
-    	"supportBonusPoolBlock" : true,
+    	"supportBonusPoolBlock" : false,
 	"ecrVendor" : "2"
     },
 	"billPayment": {
