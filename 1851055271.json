@@ -2,7 +2,7 @@
 	"merchant": {
 		"merchantCity": "HRAKLEION",
 		"merchantCategoryCode": "5411",
-		"merchantApplicationType": "3",
+		"merchantApplicationType": "0",
 		"merchantPostalCode": "14122",
 		"merchantName": "Cardlink Test",
 		"merchantAddress": "Eirinis Ave 39",
@@ -47,7 +47,7 @@
 		"useVodafoneTheme": false,
 		"useSklavenitisTheme": false,
 		"autoReactivationTimer": "180",
-		"useAutoSettlement": true,
+		"useAutoSettlement": false,
 		"useAutoCloseBatch": true,
 		"useAutoCloseBatchTimer": "17:46",
 		"useAutoParams": true,
