@@ -97,6 +97,7 @@
     "refundValidationEnabled": false,
     "localSaleEnabled": true,
     "preAuthEnabled": true,
+    "unattendedMode": true,
     "freeRefundEnabled": true,
     "freeCompletionEnabled": true,
     "supportPleaseCallMeEnabled": false,
