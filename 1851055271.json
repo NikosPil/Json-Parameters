@@ -20,11 +20,20 @@
 			{
 				"acqIndetifier": "026",
 				"acqName": "Worldline",
-				"acqTheme": "mint",
-                "allowLocal": true,
-                "allowRefund": true,
-                "allowKeyEntry": true,
-                "allowMoto": true
+				"acqTheme": "possible",
+		                "allowLocal": true,
+		                "allowRefund": true,
+		                "allowKeyEntry": true,
+		                "allowMoto": true
+			},
+			{
+				"acqIndetifier": "014",
+				"acqName": "Nexi",
+				"acqTheme": "possible",
+		                "allowLocal": true,
+		                "allowRefund": true,
+		                "allowKeyEntry": true,
+		                "allowMoto": true
 			}
 		]
 	},
