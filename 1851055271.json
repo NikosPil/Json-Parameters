@@ -23,7 +23,7 @@
 				"acqTheme": "possible",
 		                "allowLocal": true,
 		                "allowRefund": true,
-		                "allowKeyEntry": false,
+		                "allowKeyEntry": true,
 		                "allowMoto": true
 			},
 			{
@@ -32,7 +32,7 @@
 				"acqTheme": "possible",
 		                "allowLocal": true,
 		                "allowRefund": true,
-		                "allowKeyEntry": false,
+		                "allowKeyEntry": true,
 		                "allowMoto": true
 			}
 		]
