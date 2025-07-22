@@ -25,15 +25,6 @@
 		                "allowRefund": true,
 		                "allowKeyEntry": true,
 		                "allowMoto": true
-			},
-			{
-				"acqIndetifier": "014",
-				"acqName": "Nexi",
-				"acqTheme": "possible",
-		                "allowLocal": true,
-		                "allowRefund": true,
-		                "allowKeyEntry": true,
-		                "allowMoto": true
 			}
 		]
 	},
