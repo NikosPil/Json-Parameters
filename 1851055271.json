@@ -11,8 +11,8 @@
 		"merchantID": "0101918200",
 		"terminalID": "77900912",
 		"customerID": "00000000000001",
-		"acqIndetifier": "026",
-		"acqName": "Worldline",
+		"acqIndetifier": "",
+		"acqName": "",
 		"merchantVatNumber" : "979703476"
 	},
 	"multiAcq": {
