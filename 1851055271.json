@@ -51,7 +51,7 @@
 		"useAutoCloseBatch": false,
 		"useAutoCloseBatchTimer": "17:46",
 		"useAutoParams": true,
-		"useAutoParamsTimer": "13:30",
+		"useAutoParamsTimer": "13:35",
 		"alphaBankDCCSupport": true,
 		"alphaBankDCCProfileId": "19011",
 		"alphaBankDCCPartnerId": "9011",
@@ -1895,6 +1895,7 @@
 		}
 	}
 }
+
 
 
 
