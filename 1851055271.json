@@ -123,8 +123,8 @@
 			"showEmvDataInReceipt": false,
 			"acquirerBankNameAsBIDSetting": false,
 			"merchantReceipt": false,
-			"barcodeSetting": "01",
-			"customLogo": "",
+			"barcodeSetting": "02",
+			"customLogo": "https://mpos.cardlink.gr/files/android/resources/receipts/public_receipt_logo.png",
 			"dualLogoPrint": false,
 			"cardlinkLogoOnTop": true,
 			"asfalistikosgoneasPromoMessage": "ΕΞΟΦΛΗΣΤΕ ΤΑ ΑΣΦΑΛΙΣΤΡΑ ΣΑΣ ΜΕ ΠΙΣΤΩΤΙΚΗ ΚΑΡΤΑ ΚΑΙ ΚΕΡΔΙΣΤΕ ΕΚΠΤΩΣΗ ΕΩΣ ΚΑΙ 10% ΕΝΗΜΕΡΩΘΕΙΤΕ ΣΤΟ 210 8119670"
@@ -1906,6 +1906,7 @@
 		}
 	}
 }
+
 
 
 
