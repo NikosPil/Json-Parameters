@@ -263,8 +263,8 @@
 		"useMicroserviceDateTime": true,
 		"useHostDateTime": false
 	},
-	"config_file": "https://mpos.cardlink.gr/files/SPm2/CAKEYS.CFG",
-	"iccapp_key": "https://mpos.cardlink.gr/files/SPm2/ICCAPP.CFG",
+	"config_file": "https://mpos.cardlink.gr/files/SPm2/CAS.CFG",
+	"iccapp_": "https://mpos.cardlink.gr/files/SPm2/ICCAPP.CFG",
 	"terminal": "https://mpos.cardlink.gr/files/TERMINAL.CFG",
 	"curerency": "https://mpos.cardlink.gr/files/CURRENCY.CFG",
 	"masterfile": "https://mpos.cardlink.gr/files/SPm2/FW/master/masterfile.txt",
@@ -391,7 +391,7 @@
 			"image_button1_png": "https://mpos.cardlink.gr/files/easylink/icons/button1.png",
 			"image_button2_png": "https://mpos.cardlink.gr/files/easylink/icons/button2.png",
 			"image_info_png": "https://mpos.cardlink.gr/files/easylink/icons/Info.png",
-			"image_key_inject_png": "https://mpos.cardlink.gr/files/easylink/icons/Key_Inject.png",
+			"image__inject_png": "https://mpos.cardlink.gr/files/easylink/icons/_Inject.png",
 			"image_LngConfig_png": "https://mpos.cardlink.gr/files/easylink/icons/LngConfig.png",
 			"image_Logo_png": "https://mpos.cardlink.gr/files/easylink/icons/Logo3.png",
 			"image_query_png": "https://mpos.cardlink.gr/files/easylink/icons/query.png",
@@ -417,7 +417,7 @@
 			"image_button1_png": "https://mpos.cardlink.gr/files/easylink/icons/button1.png",
 			"image_button2_png": "https://mpos.cardlink.gr/files/easylink/icons/button2.png",
 			"image_info_png": "https://mpos.cardlink.gr/files/easylink/icons/Info.png",
-			"image_key_inject_png": "https://mpos.cardlink.gr/files/easylink/icons/Key_Inject.png",
+			"image__inject_png": "https://mpos.cardlink.gr/files/easylink/icons/_Inject.png",
 			"image_LngConfig_png": "https://mpos.cardlink.gr/files/easylink/icons/LngConfig.png",
 			"image_Logo_png": "https://mpos.cardlink.gr/files/easylink/icons/Logo3.png",
 			"image_query_png": "https://mpos.cardlink.gr/files/easylink/icons/query.png",
@@ -490,7 +490,7 @@
 			"image_back_png": "https://mpos.cardlink.gr/files/easylink/icons/back.png",
 			"image_button2_png": "https://mpos.cardlink.gr/files/easylink/icons/button2.png",
 			"image_info_png": "https://mpos.cardlink.gr/files/easylink/icons/Info.png",
-			"image_key_inject_png": "https://mpos.cardlink.gr/files/easylink/icons/Key_Inject.png",
+			"image__inject_png": "https://mpos.cardlink.gr/files/easylink/icons/_Inject.png",
 			"image_LngConfig_png": "https://mpos.cardlink.gr/files/easylink/icons/LngConfig.png",
 			"image_Logo_png": "https://mpos.cardlink.gr/files/easylink/icons/Logo3.png",
 			"image_query_png": "https://mpos.cardlink.gr/files/easylink/icons/query.png",
@@ -1069,10 +1069,10 @@
 					"thresholdValueInRandomSelection": "0"
 				}
 			],
-			"caKeysInformation": [
+			"casInformation": [
 				{
 					"rid": "A000000003",
-					"keyId": "90",
+					"Id": "90",
 					"module": "C26B3CB3833E42D8270DC10C8999B2DA18106838650DA0DBF154EFD51100AD144741B2A87D6881F8630E3348DEA3F78038E9B21A697EB2A6716D32CBF26086F1",
 					"exponent": "03",
 					"expDate": "151231",
@@ -1080,7 +1080,7 @@
 				},
 				{
 					"rid": "A000000003",
-					"keyId": "92",
+					"Id": "92",
 					"module": "996AF56F569187D09293C14810450ED8EE3357397B18A2458EFAA92DA3B6DF6514EC060195318FD43BE9B8F0CC669E3F844057CBDDF8BDA191BB64473BC8DC9A730DB8F6B4EDE3924186FFD9B8C7735789C23A36BA0B8AF65372EB57EA5D89E7D14E9C7B6B557460F10885DA16AC923F15AF3758F0F03EBD3C5C2C949CBA306DB44E6A2C076C5F67E281D7EF56785DC4D75945E491F01918800A9E2DC66F60080566CE0DAF8D17EAD46AD8E30A247C9F",
 					"exponent": "03",
 					"expDate": "151231",
@@ -1088,7 +1088,7 @@
 				},
 				{
 					"rid": "A000000003",
-					"keyId": "94",
+					"Id": "94",
 					"module": "ACD2B12302EE644F3F835ABD1FC7A6F62CCE48FFEC622AA8EF062BEF6FB8BA8BC68BBF6AB5870EED579BC3973E121303D34841A796D6DCBC41DBF9E52C4609795C0CCF7EE86FA1D5CB041071ED2C51D2202F63F1156C58A92D38BC60BDF424E1776E2BC9648078A03B36FB554375FC53D57C73F5160EA59F3AFC5398EC7B67758D65C9BFF7828B6B82D4BE124A416AB7301914311EA462C19F771F31B3B57336000DFF732D3B83DE07052D730354D297BEC72871DCCF0E193F171ABA27EE464C6A97690943D59BDABB2A27EB71CEEBDAFA1176046478FD62FEC452D5CA393296530AA3F41927ADFE434A2DF2AE3054F8840657A26E0FC617",
 					"exponent": "03",
 					"expDate": "151231",
@@ -1906,6 +1906,7 @@
 		}
 	}
 }
+
 
 
 
