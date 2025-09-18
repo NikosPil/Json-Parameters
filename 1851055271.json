@@ -240,9 +240,9 @@
         "ecrSystem" : true,
         "ecrSystemDefaultPort" : 4000,
         "ecrSystemMode" : 0,
-        "ecrSystemProtocol" : 3,
+        "ecrSystemProtocol" : 0,
     	"supportBonusPoolBlock" : false,
-	"ecrVendor" : "2"
+	"ecrVendor" : "1"
     },
 	"billPayment": {
 		"useBillPayment": false,
@@ -1906,6 +1906,7 @@
 		}
 	}
 }
+
 
 
 
