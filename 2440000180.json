@@ -39,7 +39,7 @@
 	"applicationSettings": {
 		"sdkLink": 1,
 		"useMastercardNewBrand": true,
-		"supportKeyEntry": true,
+		"supportEntry": false,
 		"supportInstallments": false,
 		"supportTIP": true,
 		"useBenakiTheme": false,
