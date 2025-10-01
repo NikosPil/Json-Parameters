@@ -2,7 +2,7 @@
 	"merchant": {
 		"merchantCity": "HRAKLEION",
 		"merchantCategoryCode": "5411",
-		"merchantApplicationType": "2",
+		"merchantApplicationType": "0",
 		"merchantPostalCode": "14122",
 		"merchantName": "Cardlink Test",
 		"merchantAddress": "Eirinis Ave 39",
@@ -60,7 +60,7 @@
 		"autoReactivationTimer": "180",
 		"useAutoSettlement": false,
 		"useAutoCloseBatch": false,
-		"useAutoCloseBatchTimer": "17:46",
+		"useAutoCloseBatchTimer": "10:30",
 		"useAutoParams": true,
 		"useAutoParamsTimer": "13:55",
 		"alphaBankDCCSupport": true,
@@ -1906,6 +1906,7 @@
 		}
 	}
 }
+
 
 
 
