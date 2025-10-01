@@ -59,8 +59,8 @@
 		"useSklavenitisTheme": false,
 		"autoReactivationTimer": "180",
 		"useAutoSettlement": false,
-		"useAutoCloseBatch": false,
-		"useAutoCloseBatchTimer": "11:05",
+		"useAutoCloseBatch": true,
+		"useAutoCloseBatchTimer": "13:46",
 		"useAutoParams": true,
 		"useAutoParamsTimer": "13:55",
 		"alphaBankDCCSupport": true,
@@ -1906,6 +1906,7 @@
 		}
 	}
 }
+
 
 
 
