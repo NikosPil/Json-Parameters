@@ -22,7 +22,7 @@
 				"acqName": "Worldline",
 				"acqTheme": "mint",
 		        "allowLocal": true,
-		        "allowRefund": true,
+		        "allowRefund": false,
 		        "allowKeyEntry": true,
 		        "allowMoto": true,
 				"allowIris": true
@@ -1906,6 +1906,7 @@
 		}
 	}
 }
+
 
 
 
