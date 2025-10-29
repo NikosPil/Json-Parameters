@@ -11,7 +11,7 @@
 		"merchantID": "0101918200",
 		"terminalID": "77900912",
 		"customerID": "00000000000001",
-		"acqIndetifier": "026",
+		"acqIndetifier": "",
 		"acqName": "",
 		"merchantVatNumber" : "979703476"
 	},
@@ -1906,6 +1906,7 @@
 		}
 	}
 }
+
 
 
 
