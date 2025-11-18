@@ -22,7 +22,8 @@
         "allowLocal": true,
         "allowRefund": true,
         "allowKeyEntry": true,
-        "allowMoto": true
+        "allowMoto": true,
+        "acqTheme": "possible"
       }
     ]
   },
