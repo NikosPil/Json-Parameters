@@ -94,7 +94,7 @@
     "isManualAcquirerSelection": false,
     "preAuthEnabled": true,
     "unattendedMode": true,
-    "slaveDeviceEnabled": false,
+    "slaveDeviceEnabled": true,
     "mdbManagerEnabled": false,
     "mdbCreditsAvailable": 0,
     "mdbCreditsLimitAvailable": 0,
