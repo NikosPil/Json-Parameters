@@ -118,7 +118,7 @@
 		"freeCompletionEnabled": true,
 		"supportPleaseCallMeEnabled": true,
 		"supportOrderThermalRollEnabled": true,
-		"defaultLanguage": "el",
+		"defaultLanguage": "en",
 		"receiptSettings": {
 			"showEmvDataInReceipt": false,
 			"acquirerBankNameAsBIDSetting": false,
@@ -1906,6 +1906,7 @@
 		}
 	}
 }
+
 
 
 
