@@ -573,6 +573,64 @@
 					]
 				},
 				{
+					"aidName": "MASTERCARD",
+					"aid": "A0000000046000",
+					"partialAidSelection": "1",
+					"allowSale": true,
+					"allowCash": true,
+					"allowCashback": true,
+					"allowRefund": false,
+					"floorLimit": "0",
+					"ctlsFloorLimit": "0",
+					"transactionLimit": "999999",
+					"cvmRequiredLimit": "5000",
+					"onDeviceCvmTransactionLimit": "999999",
+					"terminalCapabilities": "E060C8",
+					"terminalCapabilitiesNoCvm": "E008C8",
+					"additionalTerminalCapabilities": "6000002001",
+					"emvApplicationVersionList": "0002",
+					"msdApplicationVersionList": "0001",
+					"ctlsTACOnline": "F45084800C",
+					"ctlsTACDefault": "F45084800C",
+					"ctlsTACDenial": "0000000000",
+					"contactTACOnline": "FC50BCF800",
+					"contactTACDefault": "FC50BCA000",
+					"contactTACDenial": "0000000000",
+					"defaultTDOL": "9F0802",
+					"defaultDDOL": "9F37049F47018F019F3201",
+					"defaultUDOL": "9F6A04",
+					"terminalRisk": "6C68800000000000",
+					"kernelConfiguration": "B0",
+					"targetPercentageInRandomSelection": "0",
+					"maxTargetPercentageInRandomSelection": "0",
+					"contactFloorLimitCheck": "1",
+					"contactRandomTransactionSelect": "1",
+					"velocityCheck": "1",
+					"thresholdValueInRandomSelection": "0",
+					"alphabankDccBelowCvmLimit": true,
+					"alphaBankDCCDisclaimer": [
+						"I HAVE CHOSEN TO PAY IN %dccCurrencyName% & UNDERSTAND",
+						"MY CHOICE OF CURRENCY IS FINAL.",
+						"THE EXCHANGE RATE IS BASED ON",
+						"FINTRAX INCLUDING AN INTERNATION",
+						"CONVERSION FEE OF %feePercent%%",
+						"THIS SERVICE IS PROVIDED BY CARDLINK",
+						"IN ASSOCIATION WITH FINTRAX."
+					],
+					"eurobankDccBelowCvmLimit": true,
+					"eurobankDCCDisclaimer": [
+						"I HAVE CHOSEN NOT TO USE THE MASTERCARD",
+						"CURRENCY CONVERSION PROCESS AND I WILL",
+						"HAVE NO RECOURSE AGAINST MASTERCARD",
+						"CONCERNING THE CURRENCY CONVERSION",
+						"OR ITS DISCLOSURE. THE EXCHANGE RATE",
+						"IS BASED ON EUROBANK WHOLESALE RATE",
+						"AS OF %conversionRateDay%/%conversionRateMonth% PLUS AN INTERNATIONAL",
+						"CONVERSION FEE OF %fee% %dccCurrencyName%.",
+						"THIS SERVICE IS PROVIDED BY EUROBANK"
+					]
+				},
+				{
 					"aidName": "Maestro",
 					"aid": "A0000000043060",
 					"partialAidSelection": "1",
@@ -1906,6 +1964,7 @@
 		}
 	}
 }
+
 
 
 
