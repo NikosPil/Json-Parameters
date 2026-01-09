@@ -245,6 +245,7 @@
 	"ecrVendor" : "2"
     },
 	"billPayment": {
+		"onlyBillingPaymentNG": true,
 		"useBillPayment": false,
 		"merchantBanknumber": "",
 		"cashRegisterCode": "",
@@ -1906,6 +1907,7 @@
 		}
 	}
 }
+
 
 
 
