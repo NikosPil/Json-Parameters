@@ -69,7 +69,7 @@
 		"alphaBankDCCMerchantNumber": "123419011",
 		"alphaBankDCCMinimumAmount": 100,
 		"displayPaperRollDiscontinueNotification":true,
-		"euroBankDCCSupport": false,
+		"euroBankDCCSupport": true,
 		"nbgAppSelectionEnabled": false,
 		"nbgAppSelectionAcquirerBankId": "011",
 		"ishceSelectionEnabled": false,
@@ -1907,6 +1907,7 @@
 		}
 	}
 }
+
 
 
 
