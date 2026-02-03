@@ -215,26 +215,26 @@
 		}
 	],
 	"loyaltySettings": {
-		"alphaBankBonusEnabled": true,
+		"alphaBankBonusEnabled": false,
 		"alphaBankBonusVTid": "71000833",
 		"alphaBankBonusVMid": "0021701727",
 		"useAlphaBankBonusBRAmount": false,
 		"useAlphaBankBonusWithoutOffers": false,
-		"eurobankEuroepistrofiEnabled": true,
+		"eurobankEuroepistrofiEnabled": false,
 		"eurobankEuroepistrofiVTid" : "77900912",
 		"eurobankEuroepistrofiVMid" : "0101918200"
-		"eurobankEuroepistrofiUploadFullRedemption": true,
+		"eurobankEuroepistrofiUploadFullRedemption": false,
 		"nbgGo4MoreEnabled": false,
 		"nbgGo4MoreVTid": "77600590",
 		"nbgGo4MoreVMid": "0123455",
-		"pbgYellowEnabled": true,
+		"pbgYellowEnabled": false,
 		"pbgYellowVTid": "03974427",
 		"pbgYellowVMid": "140974429",
 		"pbgYellowPointsToRedeem": "2000",
-		"sklavenitisPrepaidEnabled": true,
-		"asfalistikosgoneasEnabled": true,
+		"sklavenitisPrepaidEnabled": false,
+		"asfalistikosgoneasEnabled": false,
 		"asfalistikosgoneasForceOnline": false,
-		"cardlinkLoyaltyEnabled": true
+		"cardlinkLoyaltyEnabled": false
 	},
     "ecrSettings": {
         "ecrSystem" : true,
@@ -1907,6 +1907,7 @@
 		}
 	}
 }
+
 
 
 
