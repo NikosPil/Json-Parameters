@@ -266,7 +266,7 @@
 		"sklavenitisPrepaidEnabled": false,
 		"asfalistikosgoneasEnabled": false,
 		"asfalistikosgoneasForceOnline": false,
-		"cardlinkLoyaltyEnabled": false
+		"cardlinkLoyaltyEnabled": true
 	},
     "ecrSettings": {
         "ecrSystem" : true,
