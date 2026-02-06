@@ -20,7 +20,7 @@
 			{
 				"acqIndetifier": "014",
 				"acqName": "Nexi",
-				"acqTheme": "mint",
+				"acqTheme": "possible",
 		        "allowLocal": true,
 		        "allowRefund": true,
 		        "allowKeyEntry": true,
@@ -1907,6 +1907,7 @@
 		}
 	}
 }
+
 
 
 
