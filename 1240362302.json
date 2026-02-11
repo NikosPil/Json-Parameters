@@ -18,8 +18,8 @@
 	"multiAcq": {
 		"acquirers": [
 			{
-				"acqIndetifier": "014",
-				"acqName": "Nexi",
+				"acqIndetifier": "026",
+				"acqName": "Worldline",
                 "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
@@ -27,8 +27,8 @@
 				"allowIris": true
 			},
 			{
-				"acqIndetifier": "026",
-				"acqName": "Worldline",
+				"acqIndetifier": "014",
+				"acqName": "Nexi",
                 "allowLocal": true,
                 "allowRefund": true,
                 "allowKeyEntry": true,
