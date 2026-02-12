@@ -70,7 +70,7 @@
 		"alphaBankDCCMinimumAmount": 100,
 		"displayPaperRollDiscontinueNotification":true,
 		"euroBankDCCSupport": true,
-		"nbgAppSelectionEnabled": false,
+		"nbgAppSelectionEnabled": true,
 		"nbgAppSelectionAcquirerBankId": "011",
 		"ishceSelectionEnabled": false,
 		"ishceSelectionAcquirerBankId": "011",
@@ -1907,6 +1907,7 @@
 		}
 	}
 }
+
 
 
 
