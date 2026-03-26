@@ -113,7 +113,7 @@
 		},
 		"refundValidationEnabled": false,
 		"localSaleEnabled": true,
-		"isManualAcquirerSelection": true,
+		"isManualAcquirerSelection": false,
 		"preAuthEnabled": true,
 		"unattendedMode": true,
     	"slaveDeviceEnabled": true,
@@ -228,7 +228,7 @@
 		"alphaBankBonusVMid": "0021701727",
 		"useAlphaBankBonusBRAmount": false,
 		"useAlphaBankBonusWithoutOffers": false,
-		"eurobankEuroepistrofiEnabled": false,
+		"eurobankEuroepistrofiEnabled": true,
 		"eurobankEuroepistrofiVTid" : "77900912",
 		"eurobankEuroepistrofiVMid" : "0101918200"
 		"eurobankEuroepistrofiUploadFullRedemption": false,
