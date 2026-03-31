@@ -113,7 +113,7 @@
 		},
 		"refundValidationEnabled": false,
 		"localSaleEnabled": true,
-		"isManualAcquirerSelection": true,
+		"isManualAcquirerSelection": false,
 		"preAuthEnabled": true,
 		"unattendedMode": true,
     	"slaveDeviceEnabled": true,
