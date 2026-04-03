@@ -115,7 +115,7 @@
 		"localSaleEnabled": true,
 		"isManualAcquirerSelection": false,
 		"preAuthEnabled": true,
-		"unattendedMode": true,
+		"unattendedMode": false,
     	"slaveDeviceEnabled": true,
 		"mdbManagerEnabled": false,
 		"mdbCreditsAvailable": 0,
@@ -243,7 +243,7 @@
 		"asfalistikosgoneasEnabled": true,
 		"asfalistikosgoneasForceOnline": false,
 		"cardlinkLoyaltyEnabled": false,
-		"loyaltyRedemptionTimeoutEnabled" : false,
+		"loyaltyRedemptionTimeoutEnabled" : true,
 		"loyaltyRedemptionTimeoutSeconds" : 10
 	},
     "ecrSettings": {
