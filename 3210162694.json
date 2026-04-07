@@ -651,6 +651,7 @@
 					"allowRefund": true,
 					"floorLimit": "0",
 					"ctlsFloorLimit": "0",
+					"resilienceFloorLimit": 500,
 					"transactionLimit": "999999",
 					"cvmRequiredLimit": "5001",
 					"terminalCapabilities": "E0F8C8",
