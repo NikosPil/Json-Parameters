@@ -43,7 +43,8 @@
 		        "allowRefund": true,
 		        "allowKeyEntry": true,
 		        "allowMoto": true,
-				"allowIris": true
+				"allowIris": true,
+                "cancelPreauthTime": 30
 			}			
 		]
 	},
