@@ -44,7 +44,7 @@
 		        "allowKeyEntry": true,
 		        "allowMoto": true,
 				"allowIris": true,
-                "cancelPreAuthTime": 30
+                "cancelPreauthTime": 30
 			}			
 		]
 	},
