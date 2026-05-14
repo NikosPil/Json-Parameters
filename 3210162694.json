@@ -533,7 +533,7 @@
 					"allowSale": true,
 					"allowCash": true,
 					"allowCashback": true,
-					"allowRefund": false,
+					"allowRefund": true,
 					"floorLimit": "0",
 					"ctlsFloorLimit": "0",
 					"transactionLimit": "999999",
