@@ -65,7 +65,7 @@
 		"supportTIP": false,
 		"useBenakiTheme": false,
 		"useVodafoneTheme": false,
-		"useSklavenitisTheme": false,
+		"useSklavenitisTheme": true,
 		"autoReactivationTimer": "180",
 		"useAutoSettlement": true,
 		"useAutoCloseBatch": true,
