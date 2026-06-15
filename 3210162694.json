@@ -243,7 +243,7 @@
 		"sklavenitisPrepaidEnabled": true,
 		"asfalistikosgoneasEnabled": true,
 		"asfalistikosgoneasForceOnline": false,
-		"cardlinkLoyaltyEnabled": false,
+		"cardlinkLoyaltyEnabled": true,
 		"loyaltyRedemptionTimeoutEnabled" : true,
 		"loyaltyRedemptionTimeoutSeconds" : 10
 	},
