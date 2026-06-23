@@ -273,7 +273,7 @@
 		"disableStatusBar": false,
 		"allowAutoNetworkFallback": true,
 		"useMicroserviceDateTime": true,
-		"useHostDateTime": false
+		"useHostDateTime": true
 	},
 	"config_file": "https://mpos.cardlink.gr/files/SPm2/CAS.CFG",
 	"iccapp_": "https://mpos.cardlink.gr/files/SPm2/ICCAPP.CFG",
