@@ -25,6 +25,24 @@
                 "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true
+			},
+			{
+				"acqIndetifier": "014",
+				"acqName": "Nexi",
+				"acqTheme": "mint",
+		        "allowLocal": true,
+		        "allowRefund": true,
+		        "allowKeyEntry": true,
+		        "allowMoto": true,
+				"allowIris": false
+			},
+			{
+				"acqIndetifier": "011",
+				"acqName": "NBG Pay",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
 			}
 		]
 	},
