@@ -19,27 +19,55 @@
         "acquirers": [
             {
                 "acqIndetifier": "014",
-                "acqName": "NEXI",
+                "acqName": "Nexi",
                 "allowLocal": true,
-                "allowPremiumLocal": false,
                 "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true,
-                "premiumLocalApprovalCode": "",
-                "acqTheme": "possible",
-                "allowIris": false
+                "acqTheme": "mint"
             },
             {
                 "acqIndetifier": "026",
                 "acqName": "WORLDLINE",
                 "allowLocal": true,
-                "allowPremiumLocal": false,
                 "allowRefund": true,
                 "allowKeyEntry": true,
                 "allowMoto": true,
-                "premiumLocalApprovalCode": "",
-                "acqTheme": "possible",
-                "allowIris": true
+                "allowIris": true,
+                "acqTheme": ""
+            },
+            {
+                "acqIndetifier": "011",
+                "acqName": "NBG Pay",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true,
+                "acqTheme": ""
+            },
+            {
+                "acqIndetifier": "887",
+                "acqName": "CARDLINK ONE",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
+            },
+            {
+                "acqIndetifier": "017",
+                "acqName": "Piraeus Bank",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": true,
+                "allowMoto": true
+            },
+            {
+                "acqIndetifier": "016",
+                "acqName": "Credia Bank",
+                "allowLocal": true,
+                "allowRefund": true,
+                "allowKeyEntry": false,
+                "allowMoto": true
             }
         ]
     },
@@ -57,38 +85,35 @@
         "useMastercardNewBrand": true,
         "supportKeyEntry": true,
         "supportInstallments": true,
-        "supportTIP": false,
+        "supportTIP": true,
         "useBenakiTheme": false,
         "useVodafoneTheme": false,
         "useSklavenitisTheme": false,
         "autoReactivationTimer": "180",
-        "useAutoSettlement": false,
+        "useAutoSettlement": true,
         "useAutoCloseBatch": true,
-        "useAutoCloseBatchTimer": "22:47",
+        "useAutoCloseBatchTimer": "14:47",
         "useAutoParams": true,
-        "useAutoParamsTimer": "04:14",
+        "useAutoParamsTimer": "11:54",
         "alphaBankDCCSupport": true,
         "alphaBankDCCProfileId": "19010",
         "alphaBankDCCPartnerId": "9010",
         "alphaBankDCCMerchantNumber": "123419010",
-        "alphaBankDCCMinimumAmount": 100,
         "euroBankDCCSupport": true,
-        "nbgAppSelectionEnabled": false,
+        "nbgAppSelectionEnabled": true,
         "nbgAppSelectionAcquirerBankId": "011",
+        "defaultLanguage": "el",
         "cardlinkOneConfiguration": {
             "accounts": []
         },
-        "ishceSelectionEnabled": false,
+        "ishceSelectionEnabled": true,
         "ishceSelectionAcquirerBankId": "011",
         "refundValidationEnabled": false,
         "localSaleEnabled": true,
-        "isManualAcquirerSelection": false,
+        "isManualAcquirerSelection": true,
         "preAuthEnabled": true,
         "unattendedMode": false,
-        "slaveDeviceEnabled": false,
         "mdbManagerEnabled": false,
-        "mdbCreditsAvailable": 0,
-        "mdbCreditsLimitAvailable": 0,
         "fileLoggerEnabled": true,
         "fileLoggerMBCapacity": 200,
         "freeRefundEnabled": true,
@@ -98,14 +123,14 @@
             "id": "2013",
             "name": "Basic",
             "details": {
-                "url": "https://cardlink.gr/support/",
+                "url": "https://support.worldline.com/el-gr/home/android-pos",
                 "telephone": "2106303000",
-                "email": "support@cardlink.gr",
-                "callMe": "support@cardlink.gr"
+                "email": "support@worldline-processing.gr",
+                "callMe": "support@worldline-processing.gr"
             }
         },
-        "supportOrderThermalRollEnabled": false,
-        "displayPaperRollDiscontinueNotification": false,
+        "supportOrderThermalRollEnabled": true,
+        "displayPaperRollDiscontinueNotification": true,
         "receiptSettings": {
             "showEmvDataInReceipt": false,
             "acquirerBankNameAsBIDSetting": false,
@@ -115,8 +140,7 @@
             "dualLogoPrint": false,
             "cardlinkLogoOnTop": false,
             "asfalistikosgoneasPromoMessage": "ΕΞΟΦΛΗΣΤΕ ΤΑ ΑΣΦΑΛΙΣΤΡΑ ΣΑΣ ΜΕ ΠΙΣΤΩΤΙΚΗ ΚΑΡΤΑ ΚΑΙ ΚΕΡΔΙΣΤΕ ΕΚΠΤΩΣΗ ΕΩΣ ΚΑΙ 10% ΕΝΗΜΕΡΩΘΕΙΤΕ ΣΤΟ 210 8119670"
-        },
-        "defaultLanguage": "el"
+        }
     },
     "loyaltySettings": {
         "alphaBankBonusEnabled": true,
