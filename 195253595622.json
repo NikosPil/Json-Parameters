@@ -106,7 +106,7 @@
         "cardlinkOneConfiguration": {
             "accounts": []
         },
-        "ishceSelectionEnabled": true,
+        "ishceSelectionEnabled": false,
         "ishceSelectionAcquirerBankId": "011",
         "refundValidationEnabled": false,
         "localSaleEnabled": true,
