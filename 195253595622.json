@@ -146,7 +146,7 @@
         "alphaBankBonusEnabled": true,
         "alphaBankBonusVTid": "75500014",
         "alphaBankBonusVMid": "0020932521",
-        "useAlphaBankBonusBRAmount": true,
+        "useAlphaBankBonusBRAmount": false,
         "useAlphaBankBonusWithoutOffers": true,
         "eurobankEuroepistrofiEnabled": true,
         "eurobankEuroepistrofiVTid": "75500014",
