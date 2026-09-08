@@ -147,7 +147,7 @@
         "alphaBankBonusVTid": "75500014",
         "alphaBankBonusVMid": "0020932521",
         "useAlphaBankBonusBRAmount": true,
-        "useAlphaBankBonusWithoutOffers": false,
+        "useAlphaBankBonusWithoutOffers": true,
         "eurobankEuroepistrofiEnabled": true,
         "eurobankEuroepistrofiVTid": "75500014",
         "eurobankEuroepistrofiVMid": "0020932521",
@@ -162,7 +162,7 @@
         "cardlinkLoyaltyEnabled": false,
         "asfalistikosgoneasEnabled": true,
         "asfalistikosgoneasForceOnline": false,
-    "sklavenitisPrepaidEnabled": false
+        "sklavenitisPrepaidEnabled": false
     },
     "ecrSettings": {
         "ecrSystem": true,
