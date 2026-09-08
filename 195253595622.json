@@ -143,7 +143,7 @@
         }
     },
     "loyaltySettings": {
-        "alphaBankBonusEnabled": false,
+        "alphaBankBonusEnabled": true,
         "alphaBankBonusVTid": "75500014",
         "alphaBankBonusVMid": "0020932521",
         "useAlphaBankBonusBRAmount": true,
