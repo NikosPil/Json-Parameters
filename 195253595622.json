@@ -160,8 +160,6 @@
         "pbgYellowVMid": "140723875",
         "pbgYellowPointsToRedeem": "2000",
         "sklavenitisPrepaidEnabled": true,
-        "loyaltyRedemptionTimeoutEnabled": true,
-        "loyaltyRedemptionTimeoutSeconds": 20,
         "asfalistikosgoneasEnabled": true,
         "asfalistikosgoneasForceOnline": false,
         "cardlinkLoyaltyEnabled": false
