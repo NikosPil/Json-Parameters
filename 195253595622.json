@@ -143,10 +143,10 @@
         }
     },
     "loyaltySettings": {
-        "alphaBankBonusEnabled": true,
+        "alphaBankBonusEnabled": false,
         "alphaBankBonusVTid": "75500014",
         "alphaBankBonusVMid": "0020932521",
-        "useAlphaBankBonusBRAmount": true,
+        "useAlphaBankBonusBRAmount": false,
         "useAlphaBankBonusWithoutOffers": true,
         "eurobankEuroepistrofiEnabled": true,
         "eurobankEuroepistrofiVTid": "75500014",
@@ -159,6 +159,8 @@
         "pbgYellowVTid": "",
         "pbgYellowVMid": "",
         "pbgYellowPointsToRedeem": "2000",
+        "loyaltyRedemptionTimeoutEnabled": true,
+        "loyaltyRedemptionTimeoutSeconds": 20,
         "cardlinkLoyaltyEnabled": false,
         "asfalistikosgoneasEnabled": true,
         "asfalistikosgoneasForceOnline": false,
