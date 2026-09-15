@@ -112,7 +112,7 @@
         "localSaleEnabled": true,
         "isManualAcquirerSelection": true,
         "preAuthEnabled": true,
-        "unattendedMode": true,
+        "unattendedMode": false,
         "mdbManagerEnabled": false,
         "fileLoggerEnabled": true,
         "fileLoggerMBCapacity": 200,
