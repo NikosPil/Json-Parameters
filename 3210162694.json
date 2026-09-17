@@ -233,10 +233,10 @@
 		"eurobankEuroepistrofiVTid" : "77900912",
 		"eurobankEuroepistrofiVMid" : "0101918200"
 		"eurobankEuroepistrofiUploadFullRedemption": false,
-		"nbgGo4MoreEnabled": true,
+		"nbgGo4MoreEnabled": false,
 		"nbgGo4MoreVTid": "77600590",
 		"nbgGo4MoreVMid": "0123455",
-		"pbgYellowEnabled": true,
+		"pbgYellowEnabled": false,
 		"pbgYellowVTid": "03974427",
 		"pbgYellowVMid": "140974429",
 		"pbgYellowPointsToRedeem": "2000",
